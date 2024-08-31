@@ -21,9 +21,9 @@ Hello! I'm **Abdallah Shatta**, a passionate **Full-Stack Developer** with a foc
 -->
 ## 📫 Let's Connect
 
-- **LinkedIn:** [[Your LinkedIn Profile]](https://www.linkedin.com/in/abdallah-shatta55/)(#)
-- **Upwork:** [Your Upwork Profile](#)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [Abdallah Shatta](https://www.linkedin.com/in/abdallah-shatta55/)(#)
+<!--- **Upwork:** [Your Upwork Profile](#)-->
+- **Email:** [abdallah_shatta@outlook.com](mailto:abdallah_shatta@outlook.com)
 
 Feel free to explore my repositories and reach out if you'd like to collaborate on any exciting projects or if you just want to chat about tech!
 
