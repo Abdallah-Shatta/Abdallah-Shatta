@@ -1,11 +1,11 @@
-Welcome to My GitHub Profile! 👋
+#Welcome to My GitHub Profile! 👋
 Hello! I'm Abdallah Shatta, a passionate Full-Stack Developer with a focus on building scalable web applications using .NET, ASP.NET Core API, ASP.NET Core MVC, and Angular. As a fresh graduate, I'm constantly learning and exploring new technologies to enhance my skills and bring innovative solutions to life.
 
 🛠️ Technologies & Tools
-Frontend: Angular, Tailwind CSS, HTML5, CSS3, JavaScript
-Backend: .NET, ASP.NET Core MVC, EF Core
-Database: SQL Server, MySQL, PostgreSQL
-Tools: Git, GitHub, Visual Studio, VS Code, Docker
+*Frontend: Angular, Tailwind CSS, HTML5, CSS3, JavaScript
+*Backend: .NET, ASP.NET Core MVC, EF Core
+*Database: SQL Server, MySQL, PostgreSQL
+*Tools: Git, GitHub, Visual Studio, VS Code, Docker
 🌱 What I'm Currently Working On
 E-commerce Application: Building a responsive product grid layout using Angular and Tailwind CSS.
 Udemy Web Application Simulation: Developing a database ERD and configuring EF Core entities for a project simulating the Udemy platform.
