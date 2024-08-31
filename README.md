@@ -21,7 +21,7 @@ Hello! I'm **Abdallah Shatta**, a passionate **Full-Stack Developer** with a foc
 -->
 ## 📫 Let's Connect
 
-- **LinkedIn:** [Abdallah Shatta](https://www.linkedin.com/in/abdallah-shatta55/)(#)
+- **LinkedIn:** [Abdallah Shatta](https://www.linkedin.com/in/abdallah-shatta55/)
 <!--- **Upwork:** [Your Upwork Profile](#)-->
 - **Email:** [abdallah_shatta@outlook.com](mailto:abdallah_shatta@outlook.com)
 
