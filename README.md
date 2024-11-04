@@ -24,9 +24,9 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/abdallah-shatta55" target="_blank"><img src="https://img.shields.io/badge/-Mohsen%20Tayseer-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/abdalah.shatta/" target="_blank"><img src="https://img.shields.io/badge/-Mohsen%20Tayseer-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="https://wa.me/+201151126106" target="_blank"><img src="https://img.shields.io/badge/-Mohsen%20Tayseer-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abdallah-shatta55" target="_blank"><img src="https://img.shields.io/badge/-Abdallah%20Shatta-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/abdalah.shatta/" target="_blank"><img src="https://img.shields.io/badge/-Abdallah%20Shatta-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://wa.me/+201151126106" target="_blank"><img src="https://img.shields.io/badge/-Abdallah%20Shatta-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
