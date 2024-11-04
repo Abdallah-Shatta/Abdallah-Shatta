@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 👋
+<!--# Welcome to My GitHub Profile! 👋
 
 Hello! I'm **Abdallah Shatta**, a passionate **Full-Stack Developer** with a focus on building scalable web applications using **.NET**, **ASP.NET Core API**, **ASP.NET Core MVC**, and **Angular**. As a fresh graduate, I'm constantly learning and exploring new technologies to enhance my skills and bring innovative solutions to life.
 
@@ -18,14 +18,14 @@ Hello! I'm **Abdallah Shatta**, a passionate **Full-Stack Developer** with a foc
 
 - **[Project 1](#):** Brief description of the project.
 - **[Project 2](#):** Brief description of the project.
--->
+
 ## 📫 Let's Connect
 
 - **LinkedIn:** [Abdallah Shatta](https://www.linkedin.com/in/abdallah-shatta55/)
-<!--- **Upwork:** [Your Upwork Profile](#)-->
+<!--- **Upwork:** [Your Upwork Profile](#)
 - **Email:** [abdallah_shatta@outlook.com](mailto:abdallah_shatta@outlook.com)
 
 Feel free to explore my repositories and reach out if you'd like to collaborate on any exciting projects or if you just want to chat about tech!
 
-**Thanks for visiting!** 😊
+**Thanks for visiting!** 😊-->
 
