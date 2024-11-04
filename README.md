@@ -9,12 +9,12 @@ Hello! I'm **Abdallah Shatta**, a passionate **Full-Stack Developer** with a foc
 - **Database:** SQL Server
 - **Tools:** Git, GitHub, Visual Studio, VS Code, Docker
 
-## 🌱 What I'm Currently Working On
+<!--## 🌱 What I'm Currently Working On
 
 - **E-commerce Application:** Building a responsive product grid layout using Angular and Tailwind CSS.
 - **Udemy Web Application Simulation:** Developing a database ERD and configuring EF Core entities for a project simulating the Udemy platform.
 
-<!--## 🚀 Projects
+## 🚀 Projects
 
 - **[Project 1](#):** Brief description of the project.
 - **[Project 2](#):** Brief description of the project.
