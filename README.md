@@ -29,7 +29,6 @@
 <a href="https://wa.me/+201151126106" target="_blank"><img src="https://img.shields.io/badge/-Abdallah%20Shatta-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![.net](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=.net)&nbsp;
-![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=.net)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
